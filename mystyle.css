@@ -1,0 +1,80 @@
+
+.container1{
+    background-color: gray;
+}
+
+.col{
+    text-align: center;
+}
+
+.logotipo{
+    width: 300px;
+    height: auto;
+}
+
+.subtitle{
+    font-size: 20px;
+}
+#rowinput{
+    display: inline;
+}
+#texto{
+    text-align: center;
+}
+input[type="text"]{
+    width: 250px;
+    height: 40px;
+    margin: 20px;
+}
+#botao{
+    width: 200px;
+    height: 40px;
+}
+.logos{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    margin-left: 100px;
+}
+.imagem2{
+    width: 700px;
+    height: auto;
+}
+#rowestilo{
+    padding: 50px;
+}
+.about{
+    font-size: 25px;
+}
+.icon{
+    width: 100px;
+    height: 100pxs;
+    display: inline;
+}
+.teste{
+    display: inline;
+}
+.icon1{
+    text-align: right;
+    margin: 40px;
+}
+.icon2{
+    margin: 40px;
+    margin-bottom: 20px;
+}
+.icon3{
+    margin: 40px;
+    margin-top: 20px;
+}
+#title1{
+    margin-top: 50px;
+}
+#colteste{
+    text-align: left;
+}
+* li{
+    font-size: 20px;
+}
+#rowestilo2{
+    padding: 50px;
+}
